@@ -8,6 +8,8 @@
 Este proyecto Laravel tiene como objetivo facilitar a los estudiantes de la UNAH la gestión y el registro de sus horas de Voluntariado en la Vicerrectoría de Orientación y Asuntos Estudiantiles (VOAE). Permite a los estudiantes cargar sus constancias en formato PDF y llevar un control detallado de las horas acumuladas en cada uno de los cuatro ámbitos definidos por la VOAE.
 
 
+Próximamente se añadirá un módulo para que los estudiantes de **Informática Administrativa** puedan llevar un control de las clases cursadas y pendientes según su plan de estudios. 
+
 
 ## Capturas de Pantalla
 
