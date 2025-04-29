@@ -11,11 +11,11 @@ Este proyecto Laravel tiene como objetivo facilitar a los estudiantes de la UNAH
 
 ## Capturas de Pantalla (Ejemplos)
 
-    ![Formulario de Subida](ruta/a/captura_subida.png)
+![Formulario de Subida](ruta/a/captura_subida.png)
     
-    ![Listado de Constancias](ruta/a/captura_listado.png)
+![Listado de Constancias](ruta/a/captura_listado.png)
 
-    ![Panel de Control](ruta/a/captura_panel.png)
+![Panel de Control](ruta/a/captura_panel.png)
    
 
 
