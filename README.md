@@ -9,7 +9,7 @@ Este proyecto Laravel tiene como objetivo facilitar a los estudiantes de la UNAH
 
 
 
-## Capturas de Pantalla (Ejemplos)
+## Capturas de Pantalla
 
 ![](https://github.com/chris2555/horasvoaeUNAH/blob/e200defb01f20873393c1e17419933a08d65fcfe/img/horas.png)  
 ![](https://github.com/chris2555/horasvoaeUNAH/blob/e200defb01f20873393c1e17419933a08d65fcfe/img/modal.png)
